@@ -1,17 +1,16 @@
 <h1 align="center">Hola 👋, Yo soy jeremih</h1>
-<h3 align="center">Desarrollo de software</h3>
+<h3 align="center">Desarrollador de software</h3>
 
-- 🌱 Estoy actualmente aprendiendo **En estos meses eh estado con el mundo MERN mas orientado a backend y con muchas ganas de terminar el curso que estoy cursando en Coderhouse**
+- 🌱 Estoy actualmente aprendiendo **en estos meses el mundo MERN mas orientado a backend y con muchas ganas de terminar el curso que estoy cursando en Coderhouse**
 
 - 📫 Cómo contactarme **jeremias.soto23@gmail.com**
 
-- 📄 Conoce mis experiencias [Eh trabajado con VB.Net como lenguaje y base de datos SQL SERVER en una aplicacion para el rubro salmonero](Eh trabajado con VB.Net como lenguaje y base de datos SQL SERVER en una aplicacion para el rubro salmonero)
+- 📄 Conoce mis experiencias [estuve trabajando con VB.Net como lenguaje y base de datos SQL SERVER en una aplicacion para el rubro salmonero en el sur de Chile](estuve trabajando con VB.Net como lenguaje y base de datos SQL SERVER en una aplicacion para el rubro salmonero en el sur de Chile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremias-soto-3402761b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremias-soto-3402761b9/" height="30" width="40" /></a>
-<a href="https://fb.com/jeremihjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeremihjr" height="30" width="40" /></a>
-<a href="https://instagram.com/jeremihjr000027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeremihjr000027" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeremias-soto-3402761b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremias-soto-3402761b9" height="30" width="40" /></a>
+<a href="https://instagram.com/jeremih00027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeremih00027" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
